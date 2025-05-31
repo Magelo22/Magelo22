@@ -11,7 +11,10 @@
 </p></a>
 </div>
 
+
+
 ## Tecnologias que sei usar
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Magelo-NodeJS" height="30" width="40" src="https://devicons.railway.com/i/nodejs.svg" />
