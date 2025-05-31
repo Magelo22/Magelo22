@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! Eu sou o Magelo, desenvolvendor Back-end
+<div>
+<a href="https://github.com/Magelo22/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magelo22&theme=dark&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magelo22&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" /></a>
+</div>
 
-<!--
-**Magelo22/Magelo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que sei usar
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Magelo-NodeJS" height="30" width="40" src="https://devicons.railway.com/i/nodejs.svg" />
+  <img align="center" alt="Magelo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Magelo-Prisma" height="30" width="40" src="https://devicons.railway.com/i/prisma-dark.svg">
+  <img align="center" alt="Magelo-PostgreSQL" height="30" width="40" src="https://devicons.railway.com/i/postgresql.svg">
+  <img align="center" alt="Magelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Magelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Magelo-Git" height="30" width="40" src="https://devicons.railway.com/i/git.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
