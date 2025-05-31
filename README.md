@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Magelo, desenvolvendor Back-end
+
 <div style="display: flex; gap: 20px; align-items: center;>
-<a href="https://github.com/Magelo22/">
+<a href="https://github.com/Magelo22">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magelo22&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
       alt="Top Langs" 
       height="180" 
