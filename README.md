@@ -46,5 +46,3 @@
       <a href="https://discordapp.com/users/1000099045156597781" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake Animation](https://github.com/Magelo22/Quiz-para-estudos/blob/output/github-snake.svg)
