@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Magelo, desenvolvendor Back-end
 <div>
 <a href="https://github.com/Magelo22/">
-<img https://github-readme-stats.vercel.app/api?username=Magelo22&theme=midnight-purple&show_icons=true>
+<img src="https://github-readme-stats.vercel.app/api?username=Magelo22&theme=midnight-purple&show_icons=true">
 <img 
       align="left" 
       alt="GitHub Stats" 
