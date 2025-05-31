@@ -1,8 +1,17 @@
 ## Olá! Eu sou o Magelo, desenvolvendor Back-end
-<div align="left">
+<div style="display: flex; gap: 20px; align-items: center;>
 <a href="https://github.com/Magelo22/">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magelo22&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=Magelo22&theme=dark&show_icons=true"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magelo22&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+      alt="Top Langs" 
+      height="180" 
+      width="350"
+      style="object-fit: contain;" height="180" 
+   /> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Magelo22&theme=dark&show_icons=true" 
+      alt="GitHub Stats" 
+      height="180" 
+      width="350"
+      style="object-fit: contain;" />
 </a>
 </div>
 
