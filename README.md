@@ -2,7 +2,7 @@
 <div>
 <a href="https://github.com/Magelo22/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magelo22&theme=dark&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magelo22&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" /></a>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magelo22&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" /></a>
 </div>
 
 ## Tecnologias que sei usar
