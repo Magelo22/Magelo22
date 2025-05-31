@@ -8,7 +8,7 @@
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magelo22&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p></a>
+</a>
 </div>
 
 
