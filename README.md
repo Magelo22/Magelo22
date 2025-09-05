@@ -31,6 +31,7 @@
   <img align="center" alt="Magelo-Git" height="30" width="40" src="https://devicons.railway.com/i/git.svg">
   <img align="center" alt="Magelo-GitHub" height="30" width="40" src="https://devicons.railway.com/i/github-light.svg">
   <img align="center" alt="Magelo-Bitbucket" height="30" width="40" src="https://devicons.railway.com/i/bitbucket.svg">
+  <img align="center" alt="Magelo-Bitbucket" height="30" width="40" src="https://api.devicons.dev.br/icon?icons=Oracle&size=48&theme=dark&perline=30">
 </div>
 
 
