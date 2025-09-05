@@ -26,12 +26,12 @@
   <img align="center" alt="Magelo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Magelo-Prisma" height="30" width="40" src="https://devicons.railway.com/i/prisma-dark.svg">
   <img align="center" alt="Magelo-PostgreSQL" height="30" width="40" src="https://devicons.railway.com/i/postgresql.svg">
+  <img align="center" alt="Magelo-Bitbucket" height="30" width="40" src="https://api.devicons.dev.br/icon?icons=Oracle&size=48&theme=dark&perline=30">
   <img align="center" alt="Magelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Magelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Magelo-Git" height="30" width="40" src="https://devicons.railway.com/i/git.svg">
   <img align="center" alt="Magelo-GitHub" height="30" width="40" src="https://devicons.railway.com/i/github-light.svg">
   <img align="center" alt="Magelo-Bitbucket" height="30" width="40" src="https://devicons.railway.com/i/bitbucket.svg">
-  <img align="center" alt="Magelo-Bitbucket" height="30" width="40" src="https://api.devicons.dev.br/icon?icons=Oracle&size=48&theme=dark&perline=30">
 </div>
 
 
