@@ -24,7 +24,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Magelo-NodeJS" height="30" width="40" src="https://devicons.railway.com/i/nodejs.svg" />
   <img align="center" alt="Magelo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Magelo-Postman" height="30" width="40" src=" https://devicons.railway.com/i/postman.svg">
+  <img align="center" alt="Magelo-Postman" height="30" width="40" src="https://devicons.railway.com/i/postman.svg">
   <img align="center" alt="Magelo-Prisma" height="30" width="40" src="https://devicons.railway.com/i/prisma-dark.svg">
   <img align="center" alt="Magelo-PostgreSQL" height="30" width="40" src="https://devicons.railway.com/i/postgresql.svg">
   <img align="center" alt="Magelo-Oracle" height="30" width="40" src="https://api.devicons.dev.br/icon?icons=Oracle&size=48&theme=dark&perline=30">
